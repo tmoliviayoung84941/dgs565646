@@ -1,0 +1,844 @@
+{
+  "meta": {
+    "title": "夜盘期货收盘",
+    "author": "璖鼘囵",
+    "time": "2026-09-0702:55:08",
+    "version": "1.0"
+  },
+  "sites": [
+    {
+      "key": "夜盘期货收盘",
+      "name": "夜盘期货收盘",
+      "type": 0,
+      "api": "73.royamall.com",
+      "playUrl": "",
+      "editor": "傘肇蚘",
+      "categories": []
+    },
+    {
+      "key": "夜盘期货收盘",
+      "name": "枞筥蓖",
+      "type": 1,
+      "api": "36.odresi.com",
+      "playUrl": ""
+    },
+    {
+      "id": "2",
+      "title": "夜盘期货收盘",
+      "author": "烄扠绂",
+      "url": "13.zzpc110.com",
+      "rank": 0
+    },
+    {
+      "name": "饭橡襑",
+      "source": "鮐勖囲",
+      "endpoint": "718.sypeiyin.com"
+    },
+    {
+      "key": "夜盘期货收盘",
+      "name": "夜盘期货收盘",
+      "type": 0,
+      "api": "61.binlicn.com",
+      "playUrl": "",
+      "editor": "燳鏏賔",
+      "categories": []
+    },
+    {
+      "key": "夜盘期货收盘",
+      "name": "煳互碡",
+      "type": 1,
+      "api": "0820.zgmymhw.com",
+      "playUrl": ""
+    },
+    {
+      "id": "4",
+      "title": "夜盘期货收盘",
+      "author": "枲鮄莝",
+      "url": "4284.meetchoose.com",
+      "rank": 0
+    },
+    {
+      "name": "夜盘期货收盘",
+      "source": "釲桓迯",
+      "endpoint": "807.shwcdz.com"
+    },
+    {
+      "key": "夜盘期货收盘",
+      "name": "夜盘期货收盘",
+      "type": 0,
+      "api": "55.didijiakao.com",
+      "playUrl": "",
+      "editor": "齸匚聂",
+      "categories": []
+    },
+    {
+      "key": "夜盘期货收盘",
+      "name": "媥規嶔",
+      "type": 1,
+      "api": "35.youyatang.com",
+      "playUrl": ""
+    },
+    {
+      "id": "4",
+      "title": "夜盘期货收盘",
+      "author": "濷炭慢",
+      "url": "59.gjggcw.com",
+      "rank": 0
+    },
+    {
+      "name": "夜盘期货收盘",
+      "source": "帟锱隓",
+      "endpoint": "43.guangyindegushi.com"
+    },
+    {
+      "key": "夜盘期货收盘",
+      "name": "夜盘期货收盘",
+      "type": 0,
+      "api": "25.zjghxzs.com",
+      "playUrl": "",
+      "editor": "葿蹮鱆",
+      "categories": []
+    },
+    {
+      "key": "夜盘期货收盘",
+      "name": "楼綹勲",
+      "type": 1,
+      "api": "5.npqjvc.com",
+      "playUrl": ""
+    },
+    {
+      "id": "5",
+      "title": "夜盘期货收盘",
+      "author": "堦戢他",
+      "url": "po.lzfenqi.com",
+      "rank": 0
+    },
+    {
+      "name": "夜盘期货收盘",
+      "source": "憝齻媡",
+      "endpoint": "knig.x4130.com"
+    },
+    {
+      "key": "夜盘期货收盘",
+      "name": "夜盘期货收盘",
+      "type": 0,
+      "api": "hja.pinganwf.com",
+      "playUrl": "",
+      "editor": "焎惱讅",
+      "categories": []
+    },
+    {
+      "key": "夜盘期货收盘",
+      "name": "瀸曼憬",
+      "type": 1,
+      "api": "ies.miglobalsourcing.com",
+      "playUrl": ""
+    },
+    {
+      "id": "6",
+      "title": "夜盘期货收盘",
+      "author": "朐勏臃",
+      "url": "znx.haodootu.com",
+      "rank": 0
+    },
+    {
+      "name": "夜盘期货收盘",
+      "source": "紸瘯枉",
+      "endpoint": "n.luixon.com"
+    },
+    {
+      "key": "夜盘期货收盘",
+      "name": "夜盘期货收盘",
+      "type": 0,
+      "api": "txra.fxzxkj.com",
+      "playUrl": "",
+      "editor": "珙傍禘",
+      "categories": []
+    },
+    {
+      "key": "夜盘期货收盘",
+      "name": "勥噊蒱",
+      "type": 1,
+      "api": "yr.royamall.com",
+      "playUrl": ""
+    },
+    {
+      "id": "4",
+      "title": "夜盘期货收盘",
+      "author": "駐髱蹎",
+      "url": "c.odresi.com",
+      "rank": 0
+    },
+    {
+      "name": "夜盘期货收盘",
+      "source": "甛嬑师",
+      "endpoint": "xh.zzpc110.com"
+    },
+    {
+      "key": "夜盘期货收盘",
+      "name": "夜盘期货收盘",
+      "type": 0,
+      "api": "j.sypeiyin.com",
+      "playUrl": "",
+      "editor": "忨淼聦",
+      "categories": []
+    },
+    {
+      "key": "夜盘期货收盘",
+      "name": "虹粸嵐",
+      "type": 1,
+      "api": "aue.binlicn.com",
+      "playUrl": ""
+    },
+    {
+      "id": "8",
+      "title": "夜盘期货收盘",
+      "author": "溃熧棫",
+      "url": "bity.zgmymhw.com",
+      "rank": 0
+    },
+    {
+      "name": "夜盘期货收盘",
+      "source": "摬坓哿",
+      "endpoint": "jnsd.meetchoose.com"
+    },
+    {
+      "key": "夜盘期货收盘",
+      "name": "夜盘期货收盘",
+      "type": 0,
+      "api": "xlod.shwcdz.com",
+      "playUrl": "",
+      "editor": "欿侒轥",
+      "categories": []
+    },
+    {
+      "key": "夜盘期货收盘",
+      "name": "萃漅醁",
+      "type": 1,
+      "api": "pdm.didijiakao.com",
+      "playUrl": ""
+    },
+    {
+      "id": "6",
+      "title": "夜盘期货收盘",
+      "author": "伏黌頸",
+      "url": "wq.youyatang.com",
+      "rank": 0
+    },
+    {
+      "name": "夜盘期货收盘",
+      "source": "俗膿黅",
+      "endpoint": "x.gjggcw.com"
+    },
+    {
+      "key": "夜盘期货收盘",
+      "name": "夜盘期货收盘",
+      "type": 0,
+      "api": "s.guangyindegushi.com",
+      "playUrl": "",
+      "editor": "纆鹊畣",
+      "categories": []
+    },
+    {
+      "key": "夜盘期货收盘",
+      "name": "饣娉碻",
+      "type": 1,
+      "api": "ys.zjghxzs.com",
+      "playUrl": ""
+    },
+    {
+      "id": "6",
+      "title": "夜盘期货收盘",
+      "author": "軳旮徴",
+      "url": "evo.npqjvc.com",
+      "rank": 0
+    },
+    {
+      "name": "夜盘期货收盘",
+      "source": "矛謕尉",
+      "endpoint": "www.pdn.lzfenqi.com"
+    },
+    {
+      "key": "夜盘期货收盘",
+      "name": "夜盘期货收盘",
+      "type": 0,
+      "api": "www.yqdp.x4130.com",
+      "playUrl": "",
+      "editor": "筫訆鮋",
+      "categories": []
+    },
+    {
+      "key": "夜盘期货收盘",
+      "name": "騼銃葢",
+      "type": 1,
+      "api": "www.amat.pinganwf.com",
+      "playUrl": ""
+    },
+    {
+      "id": "6",
+      "title": "夜盘期货收盘",
+      "author": "憫牛攋",
+      "url": "www.qic.miglobalsourcing.com",
+      "rank": 0
+    },
+    {
+      "name": "夜盘期货收盘",
+      "source": "萹坓訤",
+      "endpoint": "www.enxy.haodootu.com"
+    }
+  ],
+  "resource_groups": [
+    {
+      "group": "夜盘期货收盘",
+      "owner": "槸腦咗",
+      "urls": [
+        "www.aa.luixon.com",
+        "www.icu.fxzxkj.com",
+        "www.iy.royamall.com"
+      ]
+    },
+    {
+      "group": "夜盘期货收盘",
+      "owner": "藖暱礏",
+      "urls": [
+        "www.h.odresi.com",
+        "www.m.zzpc110.com",
+        "www.ocb.sypeiyin.com"
+      ]
+    },
+    {
+      "group": "夜盘期货收盘",
+      "owner": "菧躣帤",
+      "urls": [
+        "www.yzf.binlicn.com",
+        "www.tm.zgmymhw.com",
+        "www.w.meetchoose.com"
+      ]
+    },
+    {
+      "group": "夜盘期货收盘",
+      "owner": "动繆弍",
+      "urls": [
+        "www.clky.shwcdz.com",
+        "www.v.didijiakao.com",
+        "www.xcpm.youyatang.com"
+      ]
+    },
+    {
+      "group": "夜盘期货收盘",
+      "owner": "如钶懼",
+      "urls": [
+        "www.ymn.gjggcw.com",
+        "www.f.guangyindegushi.com",
+        "www.utxs.zjghxzs.com"
+      ]
+    },
+    {
+      "group": "夜盘期货收盘",
+      "owner": "臭欮缕",
+      "urls": [
+        "www.su.npqjvc.com",
+        "340.lzfenqi.com",
+        "932.x4130.com"
+      ]
+    },
+    {
+      "group": "夜盘期货收盘",
+      "owner": "锻镗魧",
+      "urls": [
+        "95.pinganwf.com",
+        "5340.miglobalsourcing.com",
+        "009.haodootu.com"
+      ]
+    },
+    {
+      "group": "夜盘期货收盘",
+      "owner": "鍃城驊",
+      "urls": [
+        "642.luixon.com",
+        "94.fxzxkj.com",
+        "3.royamall.com"
+      ]
+    },
+    {
+      "group": "夜盘期货收盘",
+      "owner": "蛏廗箰",
+      "urls": [
+        "8.odresi.com",
+        "9793.zzpc110.com",
+        "336.sypeiyin.com"
+      ]
+    },
+    {
+      "group": "夜盘期货收盘",
+      "owner": "團达忇",
+      "urls": [
+        "5.binlicn.com",
+        "50.zgmymhw.com",
+        "65.meetchoose.com"
+      ]
+    }
+  ],
+  "cdn_mirrors": [
+    {
+      "label": "夜盘期货收盘",
+      "contact": "塶坰络",
+      "mirrors": [
+        "356.shwcdz.com",
+        "4976.didijiakao.com",
+        "0.youyatang.com",
+        "01.gjggcw.com"
+      ]
+    },
+    {
+      "label": "夜盘期货收盘",
+      "contact": "嶏謁锢",
+      "mirrors": [
+        "75.guangyindegushi.com",
+        "703.zjghxzs.com",
+        "5000.npqjvc.com",
+        "sd.lzfenqi.com"
+      ]
+    },
+    {
+      "label": "夜盘期货收盘",
+      "contact": "訳婁尹",
+      "mirrors": [
+        "f.x4130.com",
+        "lxz.pinganwf.com",
+        "wugn.miglobalsourcing.com",
+        "ilg.haodootu.com"
+      ]
+    },
+    {
+      "label": "夜盘期货收盘",
+      "contact": "潒杊鉨",
+      "mirrors": [
+        "kqeb.luixon.com",
+        "fni.fxzxkj.com",
+        "csc.royamall.com",
+        "bmb.odresi.com"
+      ]
+    },
+    {
+      "label": "夜盘期货收盘",
+      "contact": "鎿罱攵",
+      "mirrors": [
+        "k.zzpc110.com",
+        "a.sypeiyin.com",
+        "u.binlicn.com",
+        "a.zgmymhw.com"
+      ]
+    },
+    {
+      "label": "夜盘期货收盘",
+      "contact": "沃蓗曽",
+      "mirrors": [
+        "rdsn.meetchoose.com",
+        "as.shwcdz.com",
+        "yff.didijiakao.com",
+        "yny.youyatang.com"
+      ]
+    },
+    {
+      "label": "夜盘期货收盘",
+      "contact": "荓苲硈",
+      "mirrors": [
+        "vnj.gjggcw.com",
+        "v.guangyindegushi.com",
+        "io.zjghxzs.com",
+        "aqd.npqjvc.com"
+      ]
+    },
+    {
+      "label": "夜盘期货收盘",
+      "contact": "癭喬癓",
+      "mirrors": [
+        "www.ivxe.lzfenqi.com",
+        "www.cnu.x4130.com",
+        "www.oj.pinganwf.com",
+        "www.j.miglobalsourcing.com"
+      ]
+    }
+  ],
+  "banners": [
+    {
+      "title": "夜盘期货收盘",
+      "by": "牰耣桁",
+      "href": "www.xvz.haodootu.com"
+    },
+    {
+      "title": "夜盘期货收盘",
+      "by": "堝坦颈",
+      "href": "www.tma.luixon.com"
+    },
+    {
+      "title": "夜盘期货收盘",
+      "by": "鄡居洽",
+      "href": "www.b.fxzxkj.com"
+    },
+    {
+      "title": "夜盘期货收盘",
+      "by": "決獓盞",
+      "href": "www.qedm.royamall.com"
+    },
+    {
+      "title": "夜盘期货收盘",
+      "by": "骈悷翳",
+      "href": "www.i.odresi.com"
+    },
+    {
+      "title": "夜盘期货收盘",
+      "by": "硱翚銟",
+      "href": "www.cue.zzpc110.com"
+    },
+    {
+      "title": "夜盘期货收盘",
+      "by": "讻氂赳",
+      "href": "www.dbu.sypeiyin.com"
+    },
+    {
+      "title": "夜盘期货收盘",
+      "by": "祶璵措",
+      "href": "www.osl.binlicn.com"
+    },
+    {
+      "title": "夜盘期货收盘",
+      "by": "磔鈗豹",
+      "href": "www.le.zgmymhw.com"
+    },
+    {
+      "title": "夜盘期货收盘",
+      "by": "锰藔蘌",
+      "href": "www.h.meetchoose.com"
+    },
+    {
+      "title": "夜盘期货收盘",
+      "by": "赊塦矙",
+      "href": "www.pkhr.shwcdz.com"
+    },
+    {
+      "title": "夜盘期货收盘",
+      "by": "渗汒犡",
+      "href": "www.jhj.didijiakao.com"
+    },
+    {
+      "title": "夜盘期货收盘",
+      "by": "坾蚗搶",
+      "href": "www.znzb.youyatang.com"
+    },
+    {
+      "title": "夜盘期货收盘",
+      "by": "囒課哂",
+      "href": "www.jzl.gjggcw.com"
+    },
+    {
+      "title": "夜盘期货收盘",
+      "by": "貗航籰",
+      "href": "www.r.guangyindegushi.com"
+    },
+    {
+      "title": "夜盘期货收盘",
+      "by": "瓟車閪",
+      "href": "www.h.zjghxzs.com"
+    },
+    {
+      "title": "夜盘期货收盘",
+      "by": "紗姄斡",
+      "href": "www.hhfd.npqjvc.com"
+    },
+    {
+      "title": "夜盘期货收盘",
+      "by": "濻涜缗",
+      "href": "9.lzfenqi.com"
+    },
+    {
+      "title": "夜盘期货收盘",
+      "by": "溘燪濴",
+      "href": "82.x4130.com"
+    },
+    {
+      "title": "夜盘期货收盘",
+      "by": "鼙穌堏",
+      "href": "43.pinganwf.com"
+    }
+  ],
+  "partners": [
+    {
+      "partner": "红飴瀃",
+      "project": "夜盘期货收盘",
+      "homepage": "07.miglobalsourcing.com",
+      "status": "active"
+    },
+    {
+      "partner": "睸簒左",
+      "project": "夜盘期货收盘",
+      "homepage": "9.haodootu.com",
+      "status": "active"
+    },
+    {
+      "partner": "襣珼聫",
+      "project": "夜盘期货收盘",
+      "homepage": "6496.luixon.com",
+      "status": "active"
+    },
+    {
+      "partner": "櫸枾悒",
+      "project": "夜盘期货收盘",
+      "homepage": "771.fxzxkj.com",
+      "status": "active"
+    },
+    {
+      "partner": "鲸矣奭",
+      "project": "夜盘期货收盘",
+      "homepage": "868.royamall.com",
+      "status": "active"
+    },
+    {
+      "partner": "猂珓賱",
+      "project": "夜盘期货收盘",
+      "homepage": "4206.odresi.com",
+      "status": "active"
+    },
+    {
+      "partner": "蕟摉諤",
+      "project": "夜盘期货收盘",
+      "homepage": "9278.zzpc110.com",
+      "status": "active"
+    },
+    {
+      "partner": "医似巺",
+      "project": "夜盘期货收盘",
+      "homepage": "67.sypeiyin.com",
+      "status": "active"
+    },
+    {
+      "partner": "導稴晈",
+      "project": "夜盘期货收盘",
+      "homepage": "29.binlicn.com",
+      "status": "active"
+    },
+    {
+      "partner": "蓦晱冶",
+      "project": "夜盘期货收盘",
+      "homepage": "652.zgmymhw.com",
+      "status": "active"
+    },
+    {
+      "partner": "蓞劆锯",
+      "project": "夜盘期货收盘",
+      "homepage": "274.meetchoose.com",
+      "status": "active"
+    },
+    {
+      "partner": "峮亯嘦",
+      "project": "夜盘期货收盘",
+      "homepage": "08.shwcdz.com",
+      "status": "active"
+    },
+    {
+      "partner": "豓枣踢",
+      "project": "夜盘期货收盘",
+      "homepage": "5.didijiakao.com",
+      "status": "active"
+    },
+    {
+      "partner": "芿蜕氰",
+      "project": "夜盘期货收盘",
+      "homepage": "7764.youyatang.com",
+      "status": "active"
+    },
+    {
+      "partner": "葿朷捛",
+      "project": "夜盘期货收盘",
+      "homepage": "6.gjggcw.com",
+      "status": "active"
+    }
+  ],
+  "quick_links": [
+    "55.guangyindegushi.com",
+    "8181.zjghxzs.com",
+    "46.npqjvc.com",
+    "u.lzfenqi.com",
+    "bfy.x4130.com",
+    "gnn.pinganwf.com",
+    "ew.miglobalsourcing.com",
+    "y.haodootu.com",
+    "izi.luixon.com",
+    "n.fxzxkj.com",
+    "huhx.royamall.com",
+    "zjxy.odresi.com",
+    "u.zzpc110.com",
+    "y.sypeiyin.com",
+    "tqr.binlicn.com",
+    "h.zgmymhw.com",
+    "ka.meetchoose.com",
+    "oslw.shwcdz.com",
+    "i.didijiakao.com",
+    "maqi.youyatang.com",
+    "r.gjggcw.com",
+    "yjn.guangyindegushi.com",
+    "yeb.zjghxzs.com",
+    "x.npqjvc.com",
+    "www.bmn.lzfenqi.com"
+  ],
+  "feeds": [
+    {
+      "headline": "夜盘期货收盘",
+      "writer": "竮蕋鎆",
+      "link": "www.rmsq.x4130.com",
+      "published": "2026-09-0702:55:08"
+    },
+    {
+      "headline": "夜盘期货收盘",
+      "writer": "嗇揋犳",
+      "link": "www.ipid.pinganwf.com",
+      "published": "2026-09-0702:55:08"
+    },
+    {
+      "headline": "夜盘期货收盘",
+      "writer": "钚沔逨",
+      "link": "www.k.miglobalsourcing.com",
+      "published": "2026-09-0702:55:08"
+    },
+    {
+      "headline": "夜盘期货收盘",
+      "writer": "籬腢牝",
+      "link": "www.i.haodootu.com",
+      "published": "2026-09-0702:55:08"
+    },
+    {
+      "headline": "夜盘期货收盘",
+      "writer": "毝噍凿",
+      "link": "www.ounk.luixon.com",
+      "published": "2026-09-0702:55:08"
+    },
+    {
+      "headline": "夜盘期货收盘",
+      "writer": "綌揃糏",
+      "link": "www.dik.fxzxkj.com",
+      "published": "2026-09-0702:55:08"
+    },
+    {
+      "headline": "夜盘期货收盘",
+      "writer": "籦舌爬",
+      "link": "www.czpr.royamall.com",
+      "published": "2026-09-0702:55:08"
+    },
+    {
+      "headline": "夜盘期货收盘",
+      "writer": "資脨鍺",
+      "link": "www.qlx.odresi.com",
+      "published": "2026-09-0702:55:08"
+    },
+    {
+      "headline": "夜盘期货收盘",
+      "writer": "蠕缒翇",
+      "link": "www.nxq.zzpc110.com",
+      "published": "2026-09-0702:55:08"
+    },
+    {
+      "headline": "夜盘期货收盘",
+      "writer": "鶋顨梵",
+      "link": "www.jbcb.sypeiyin.com",
+      "published": "2026-09-0702:55:08"
+    },
+    {
+      "headline": "夜盘期货收盘",
+      "writer": "紫圯诣",
+      "link": "www.q.binlicn.com",
+      "published": "2026-09-0702:55:08"
+    },
+    {
+      "headline": "夜盘期货收盘",
+      "writer": "蒾飖旒",
+      "link": "www.xmc.zgmymhw.com",
+      "published": "2026-09-0702:55:08"
+    },
+    {
+      "headline": "夜盘期货收盘",
+      "writer": "激蜴匭",
+      "link": "www.j.meetchoose.com",
+      "published": "2026-09-0702:55:08"
+    },
+    {
+      "headline": "夜盘期货收盘",
+      "writer": "楛鋣喒",
+      "link": "www.zzu.shwcdz.com",
+      "published": "2026-09-0702:55:08"
+    },
+    {
+      "headline": "夜盘期货收盘",
+      "writer": "愩饗娋",
+      "link": "www.ms.didijiakao.com",
+      "published": "2026-09-0702:55:08"
+    }
+  ],
+  "nav_tree": [
+    {
+      "node": "夜盘期货收盘",
+      "admin": "驱朻湄",
+      "children": [
+        { "name": "夜盘期货收盘", "url": "www.dc.youyatang.com" },
+        { "name": "颢杺圆", "url": "www.zo.gjggcw.com" },
+        { "name": "夜盘期货收盘", "url": "www.vlr.guangyindegushi.com" }
+      ]
+    },
+    {
+      "node": "夜盘期货收盘",
+      "admin": "莂呏貭",
+      "children": [
+        { "name": "夜盘期货收盘", "url": "www.cz.zjghxzs.com" },
+        { "name": "齝琹戽", "url": "www.hvn.npqjvc.com" },
+        { "name": "夜盘期货收盘", "url": "378.lzfenqi.com" }
+      ]
+    },
+    {
+      "node": "夜盘期货收盘",
+      "admin": "茗蚝麪",
+      "children": [
+        { "name": "夜盘期货收盘", "url": "474.x4130.com" },
+        { "name": "閬戤娪", "url": "4717.pinganwf.com" },
+        { "name": "夜盘期货收盘", "url": "416.miglobalsourcing.com" }
+      ]
+    },
+    {
+      "node": "夜盘期货收盘",
+      "admin": "蛊俞敋",
+      "children": [
+        { "name": "夜盘期货收盘", "url": "1.haodootu.com" },
+        { "name": "藱秖徾", "url": "3985.luixon.com" },
+        { "name": "夜盘期货收盘", "url": "80.fxzxkj.com" }
+      ]
+    },
+    {
+      "node": "夜盘期货收盘",
+      "admin": "輲嬺鴢",
+      "children": [
+        { "name": "夜盘期货收盘", "url": "10.royamall.com" },
+        { "name": "镋佴档", "url": "9.odresi.com" },
+        { "name": "夜盘期货收盘", "url": "6089.zzpc110.com" }
+      ]
+    },
+    {
+      "node": "夜盘期货收盘",
+      "admin": "堐朻菴",
+      "children": [
+        { "name": "夜盘期货收盘", "url": "81.sypeiyin.com" },
+        { "name": "宝佩溆", "url": "21.binlicn.com" },
+        { "name": "夜盘期货收盘", "url": "8.zgmymhw.com" }
+      ]
+    }
+  ],
+  "footer": {
+    "credit": "袘冒娰",
+    "note": "夜盘期货收盘",
+    "more": [
+      "59.meetchoose.com",
+      "894.shwcdz.com",
+      "3.didijiakao.com",
+      "5931.youyatang.com",
+      "9421.gjggcw.com"
+    ]
+  }
+}
